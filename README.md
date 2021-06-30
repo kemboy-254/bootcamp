@@ -4,6 +4,7 @@
 ## 0: Creating a GitHub account
 
 Go to [github.com](https://github.com/) and create an account. After you have verified your email, create an empty repository in your new account, and name it **bootcamp**
+Answer: kemboy-254
 
 # Part B - Terminal Commands
   
