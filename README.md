@@ -3,7 +3,7 @@
 
 ## 0: Creating a GitHub account
 
-Go to [github.com](https://github.com/) and create an account. After you have verified your email, create an empty repository in your new account, and name it **bootcamp**
+Go to [github.com](https://github.com/) and create an account. After you have verified your email, create an empty repository in your new account, and name it **bootcamp**  
 
 Answer: kemboy-254
 
@@ -12,7 +12,7 @@ Answer: kemboy-254
 
 ## 1: Our first command
 
-Write a command that prints out the string “hello, world”. Extra credit: As in Listing 1, do it two different ways, both with and without using quotation marks.
+Write a command that prints out the string “hello, world”. Extra credit: As in Listing 1, do it two different ways, both with and without using quotation marks.  
 
 Answers: 1. Write-Output "hello, world" //output on single line  
 
@@ -29,13 +29,13 @@ Answer: Clear-Content
 
 ## 3: Listing
 
-What’s the command to list all the files (and directories) on your Desktop directory? 
+What’s the command to list all the files (and directories) on your Desktop directory?  
 
 Answer: dir C:\Users\Admin\OneDrive\Desktop
 
 ## 4: Making directories
 
-Make the directory **bootcamp** on your Desktop and, within it, the directory **labs** (i.e., ~/Desktop/bootcamp/labs).
+Make the directory **bootcamp** on your Desktop and, within it, the directory **labs** (i.e., ~/Desktop/bootcamp/labs).  
 
 Answers: cd  C:\Users\Admin\OneDrive\Desktop
 
@@ -47,7 +47,7 @@ Answers: cd  C:\Users\Admin\OneDrive\Desktop
 
 ## 5: Navigating directories
 
-Change to your Desktop, then change to bootcamp directory, and then the lab directory.
+Change to your Desktop, then change to bootcamp directory, and then the lab directory.  
 
 Answers: cd  C:\Users\Admin\OneDrive\Desktop  
 
