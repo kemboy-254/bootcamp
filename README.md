@@ -14,9 +14,9 @@ Answer: kemboy-254
 
 Write a command that prints out the string “hello, world”. Extra credit: As in Listing 1, do it two different ways, both with and without using quotation marks.
 
-Ansers: 1. Write-Output "hello, world" //output on single line
-		2. Write-Output hello, world //output in listing.
-		3. echo hello,world // output in listing
+Answers: 1. Write-Output "hello, world" //output on single line  
+		2. Write-Output hello, world //output in listing.  
+		3. echo hello,world // output in listing  
 
 ## 2: Cleaning up
 
