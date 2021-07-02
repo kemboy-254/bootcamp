@@ -14,11 +14,11 @@ Answer: kemboy-254
 
 Write a command that prints out the string “hello, world”. Extra credit: As in Listing 1, do it two different ways, both with and without using quotation marks.
 
-Answers: 1. Write-Output "hello, world" //output on single line
+Answers: 1. Write-Output "hello, world" //output on single line  
 
-		2. Write-Output hello, world //output in listing.
+		2. Write-Output hello, world //output in listing.  
 
-		3. echo hello,world // output in listing
+		3. echo hello,world // output in listing  
 
 ## 2: Cleaning up
 
@@ -39,9 +39,9 @@ Make the directory **bootcamp** on your Desktop and, within it, the directory **
 
 Answers: cd  C:\Users\Admin\OneDrive\Desktop
 
-		 mkdir bootcamp 
+		 mkdir bootcamp  
 
-		 cd bootcamp
+		 cd bootcamp  
 
 		 mkdir labs  
 
@@ -49,11 +49,11 @@ Answers: cd  C:\Users\Admin\OneDrive\Desktop
 
 Change to your Desktop, then change to bootcamp directory, and then the lab directory.
 
-Answers: cd  C:\Users\Admin\OneDrive\Desktop
+Answers: cd  C:\Users\Admin\OneDrive\Desktop  
 
-		 cd bootcamp
+		 cd bootcamp  
 		 
-		 cd labs
+		 cd labs  
 
 
 ## 6: Creating files
