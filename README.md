@@ -22,7 +22,7 @@ Answers: 1. Write-Output "hello, world" //output on single line
 
 Clear the contents of the current tab.
 
-Answer: Clear-Content
+Answer: Clear-Content  
 
 
 ## 3: Listing
@@ -35,17 +35,17 @@ Answer: dir C:\Users\Admin\OneDrive\Desktop
 
 Make the directory **bootcamp** on your Desktop and, within it, the directory **labs** (i.e., ~/Desktop/bootcamp/labs).
 
-Answers: cd  C:\Users\Admin\OneDrive\Desktop
-		 mkdir bootcamp
-		 cd bootcamp
-		 mkdir labs
+Answers: cd  C:\Users\Admin\OneDrive\Desktop <br/>
+		 mkdir bootcamp <br/>
+		 cd bootcamp<br/>
+		 mkdir labs<br/>
 
 ## 5: Navigating directories
 
 Change to your Desktop, then change to bootcamp directory, and then the lab directory.
 
-Answers: cd  C:\Users\Admin\OneDrive\Desktop
-		 cd bootcamp
+Answers: cd  C:\Users\Admin\OneDrive\Desktop  
+		 cd bootcamp <br/>
 		 cd labs
 
 
@@ -53,14 +53,14 @@ Answers: cd  C:\Users\Admin\OneDrive\Desktop
 
 Create an empty file called file01 in the lab directory. 
 
-Answer: New-Item file01
+Answer: New-Item file01  
 
 
 ## 7: Deleting directories
 
 What is the command used to remove a directory named **food** and everything inside it. 
 
-Answes: rmdir food
+Answes: rmdir food  
 
 
 # Part C - Github 
@@ -69,7 +69,7 @@ Answes: rmdir food
 
 Download the [GitHub desktop application](https://desktop.github.com/).
 
-//done
+//done  
 
 ## 9: Pushing work to GitHub
 
