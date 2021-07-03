@@ -24,7 +24,7 @@ Write a command that prints out the string “hello, world”. Extra credit: As 
 
 Clear the contents of the current tab.
 
-			 clear
+		 clear
 
 
 ## 3: Listing
