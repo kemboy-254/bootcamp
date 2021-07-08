@@ -101,12 +101,12 @@ while n != 0:
 		 0
 
 ## 7 What does this code do?
-f = 0
-g = 1
-for i in range (0, 10):
-	f = f + g
-	g = f - g
-	print (f)
+f = 0  
+g = 1  
+for i in range (0, 10):  
+	f = f + g  
+	g = f - g  
+	print (f)  
 
 			 1
 			 1
@@ -119,6 +119,6 @@ for i in range (0, 10):
 			 34
 			 55
 
-##Bonus: Is there an example for when the following for and while loops are not equivalent?
+## Bonus: Is there an example for when the following for and while loops are not equivalent?
 
 
