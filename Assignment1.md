@@ -1,14 +1,14 @@
 ##1 .Can I use matching double quotes for string literals instead of single quotes? Yes/No
-		 Yes  
+		 	 Yes  
 
 ##2 . Can I compare strings using comparison operators such as = and < or built-in functions such as max() and min()? Yes / No
-		 Yes  
+		 	 Yes  
 
 ##3. What does the expression 1/0 evaluate to in Python?
-		 c . Error  
+		 	 c . Error  
 
 ##4 . Is there a difference between = and ==? Yes/No
-		 Yes  
+		 	 Yes  
 
 ##5 .will a = b = c = 17 set the three variables to 17? Yes/No
 
