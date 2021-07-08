@@ -119,6 +119,19 @@ for i in range (0, 10):
 			 34
 			 55
 
-## Bonus: Is there an example for when the following for and while loops are not equivalent?
+## Bonus: Is there an example for when the following for and while loops are not equivalent?  
+for variable in range(start, stop):
+				statement1
+				statement2
+				...
+
+				
+
+variable = start
+while variable < stop:
+		statement1
+		statement2
+		...
+		variable +=1
 
 
