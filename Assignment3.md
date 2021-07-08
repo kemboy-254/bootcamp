@@ -8,10 +8,17 @@
 		 No
 
 ##4. Compose a program that takes three integer command-line arguments and writes 'equal' if all three are equal, and 'not equal' otherwise.
+		 num1 =int(input('Please enter the first number:'))
+		 num2 =int(input('Please enter the second number:'))
+		 num3 =int(input('Please enter the third number:'))
 
+		 if num1==num2==num3:
+			 print('Equal')
+		 else:
+			 print('Not equal')
 		 
 ##5. What is the value of j after each of the following code fragments is executed?
-
+	
 
 ##6. What are m and n after the following code is executed? 
 
