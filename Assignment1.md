@@ -20,18 +20,18 @@
 
 ## 6. Give the value of a after the execution of each of the following sequences:  
 
-	a = 1  
-	a = a + a  
-	a = a + a  
-	a = a + a  
-	a = True  
-	a = not a  
-	a = not a  
-	a = not a  
-	a = 2  
-	a = a * a  
-	a = a * a  
-	a = a * a  
+a = 1  
+a = a + a  
+a = a + a  
+a = a + a  
+a = True  
+a = not a  
+a = not a  
+a = not a  
+a = 2  
+a = a * a  
+a = a * a  
+a = a * a  
 
 			 256
 
