@@ -3,11 +3,15 @@
 
 ## 2. Describe what happens if you omit the following in helloworld.py: 
 •	the first '  
-		 o	 Error  
+
+			 o Error  
+
 •	the second '  
-		 o	Error  
+			 o Error  
+
 •	the print() statement  
-		 o	Error  
+
+			 o Error  
 
 ## 3. Which one of the following is the correct way to execute useargument.py using the terminal: •
 		 o	python useargument.py  
