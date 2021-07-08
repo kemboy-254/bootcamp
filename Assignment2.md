@@ -1,19 +1,25 @@
-##1. What is the difference between = and ==? 
-		 = is used to assign a variable to a value.  
-		 == is ised to indicate that both the values on the left and the right are equal.  
+##1. Compose a program that writes the Hello, World message 10 times. 
+		 print("Hello World\n"*10)
 
-##2. Can I leave out the colon in an if, while, or for statement? Yes/No 
-		 No
-##3. Should I use tab characters to indent my code? Yes/No 
-		 No
+##2. Describe what happens if you omit the following in helloworld.py: 
+		•	the first '  
+		 o	 Error  
+		•	the second '  
+		 o	Error  
+		•	the print() statement  
+		 o	Error  
 
-##4. Compose a program that takes three integer command-line arguments and writes 'equal' if all three are equal, and 'not equal' otherwise.
+##3. Which one of the following is the correct way to execute useargument.py using the terminal: •
+		 o	python useargument.py  
 
-		 
-##5. What is the value of j after each of the following code fragments is executed?
+		 o	python3 useargument.py  
+
+##4. Modify helloworld.py to compose a program that takes three names and writes a proper sentence with the names in the reverse of the order they are given, so that, for example, python helloworld.py Alice Bob Carol writes the string 'Hi Carol, Bob, and Alice'
+
+		 first_name =str(input('Please enter the first name: '))
+		 second_name =str(input('Please enter the second name: '))
+		 third_name =str(input('Please enter the third name: '))
 
 
-##6. What are m and n after the following code is executed? 
+		 print ("Hi", third_name,",",second_name, "and", first_name )
 
-
-##7. Bonus: Is there an example for when the following for and while loops are not equivalent?
