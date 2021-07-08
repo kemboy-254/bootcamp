@@ -1,22 +1,32 @@
-##1. Compose a program that writes the Hello, World message 10 times. 
-        print("Hello World\n"*10)
+##1 .Can I use matching double quotes for string literals instead of single quotes? Yes/No
+		 Yes  
 
-##2.	Describe what happens if you omit the following in helloworld.py: 
+##2 . Can I compare strings using comparison operators such as = and < or built-in functions such as max() and min()? Yes / No
+		 Yes  
 
-            •	the first '  
-                o	 Error  
-            •	the second '  
-                o	Error  
-            •	the print() statement  
-                o	Error  
+##3. What does the expression 1/0 evaluate to in Python?
+		 c . Error  
 
-##3.	Which one of the following is the correct way to execute useargument.py using the terminal: •
-            o	python useargument.py 
-            o	python3 useargument.py
-##4.	Modify helloworld.py to compose a program that takes three names and writes a proper sentence with the names in the reverse of the order they are given, so that, for example, python helloworld.py Alice Bob Carol writes the string 'Hi Carol, Bob, and Alice'
+##4 . Is there a difference between = and ==? Yes/No
+		 Yes  
 
-            first_name =str(input('Please enter the first name: '))
-            second_name =str(input('Please enter the second name: ')) 
-            third_name =str(input('Please enter the third name: ')) 
+##5 .will a = b = c = 17 set the three variables to 17? Yes/No
 
-            print ("Hi", third_name,",",second_name, "and", first_name )
+##6. Give the value of a after the execution of each of the following sequences:
+	a = 1
+	a = a + a
+	a = a + a
+	a = a + a
+	a = True
+	a = not a
+	a = not a
+	a = not a
+	a = 2
+	a = a * a
+	a = a * a
+	a = a * a
+
+			 256
+
+
+
