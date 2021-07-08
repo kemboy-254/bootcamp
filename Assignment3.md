@@ -73,13 +73,13 @@ c.	for j in range (0, 10) :
 
 ## 6. What are m and n after the following code is executed?  
 
-n = 123456789
-m = 0
-while n != 0:
-	m = (10 * m) + (n % 10)
-	n //= 10
-	print (m)
-	print (n)
+n = 123456789  
+m = 0  
+while n != 0:  
+	m = (10 * m) + (n % 10)  
+	n //= 10  
+	print (m)  
+	print (n)  
 
 		 9
 		 12345678
