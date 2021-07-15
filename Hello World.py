@@ -1,3 +1,0 @@
-text = "Mike"
-
-print(text)
