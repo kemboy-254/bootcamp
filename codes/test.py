@@ -1,13 +1,5 @@
-#for var in range (0, 10) :	
-	#print(var)
-	#break
-	#var += 1
+first_name =str(input('Please enter the first name: '))
+second_name =str(input('Please enter the second name: '))
+third_name =str(input('Please enter the third name: '))
 
-
-var = 0  
-while var < 10:
-	
-	break
-	print(var)  
-	  
-	var +=1
+print ("Hi", third_name,",", second_name, "and", first_name)
