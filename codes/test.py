@@ -1,5 +1,9 @@
-first_name =str(input('Please enter the first name: '))
-second_name =str(input('Please enter the second name: '))
-third_name =str(input('Please enter the third name: '))
 
-print ("Hi", third_name,",", second_name, "and", first_name)
+def sum():
+  print("GFG")
+   
+# assigning function to a variable
+var=a
+ 
+# calling the variable
+var()
