@@ -16,7 +16,7 @@ while True:
 
 		my_choice = input("Invalid Choice! Please try again: ").lower()
 
-	random_num=random.randint(0,2)
+	random_num = random.randint(0,2)
 
 	if random_num == 0:
 		comp_choice="rock"
