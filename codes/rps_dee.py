@@ -58,7 +58,7 @@ while user_score != score_limit or pc_score != score_limit:
 
         pc_guess = random.choice(my_list)
 
-    elif user_score == score_limit:
+    if user_score == score_limit:
         print("yay u won")
 
         break
