@@ -38,10 +38,10 @@ btn2=Button(cal,padx=16,pady=16,bd=8,font=('arial', 20,'bold'),text="2",bg="powd
 btn3=Button(cal,padx=16,pady=16,bd=8,font=('arial', 20,'bold'),text="3",bg="powder blue",command=lambda:btn_click(3)).grid(row=3,column=2)
 Mult=Button(cal,padx=16,pady=16,bd=8,font=('arial', 20,'bold'),text="*",bg="powder blue",command=lambda:btn_click("*")).grid(row=3,column=3)
 #====================================================
-btn0=Button(cal,padx=16,bd=8,font=('arial', 20,'bold'),text="0",bg="powder blue" ,command=lambda:btn_click(0)).grid(row=4,column=0)
-#btnPoint=Button(cal,padx=16,bd=8,font=('arial', 20,'bold'),text=".",bg="powder blue" ,command=lambda:btn_click(".")).grid(row=4,column=1)
-btnClear=Button(cal,padx=16,bd=8,font=('arial', 20,'bold'),text="C",bg="powder blue",command=btnClearDisplay).grid(row=4,column=1)
-btnEquals=Button(cal,padx=16,bd=8,font=('arial', 20,'bold'),text="=",bg="powder blue",command= btnEqualsInput).grid(row=4,column=2)
-Div=Button(cal,padx=16,bd=8,font=('arial', 20,'bold'),text="/",bg="powder blue",command=lambda:btn_click("/")).grid(row=4,column=3)
+btn0=Button(cal,padx=16,pady=16,bd=8,font=('arial', 20,'bold'),text="0",bg="powder blue" ,command=lambda:btn_click(0)).grid(row=4,column=0)
+btnPoint=Button(cal,padx=16,pady=16,bd=8,font=('arial', 20,'bold'),text=".",bg="powder blue" ,command=lambda:btn_click(".")).grid(row=4,column=1)
+btnClear=Button(cal,padx=16,pady=16,bd=8,font=('arial', 20,'bold'),text="C",bg="powder blue",command=btnClearDisplay).grid(row=4,column=2)
+Div=Button(cal,padx=16,pady=16,bd=8,font=('arial', 20,'bold'),text="/",bg="powder blue",command=lambda:btn_click("/")).grid(row=4,column=3)
+btnEquals=Button(cal,padx=130,pady=16,bd=8,font=('arial', 20,'bold'),text="=",bg="powder blue",command= btnEqualsInput).grid(row=5,column=0,columnspan=4)
 
 cal.mainloop()
